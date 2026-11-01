@@ -49,7 +49,7 @@ Outside of programming, I'm passionate about **cars**, technology and constantly
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,nextjs,docker,git,linux,vscode,bash,mysql"/>
+<img src="https://skillicons.dev/icons?i=lua,py,html,css,nextjs,docker,git,linux,windows,vscode,bash,mysql"/>
 
 </p>
 
